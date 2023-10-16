@@ -1,8 +1,21 @@
-# React + Vite
+# E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project encompasses an e-commerce web application developed using React and a range of other technologies.
 
-Currently, two official plugins are available:
+## Used Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Redux Toolkit
+- React Router DOM
+- React Redux
+- React Icons
+- React Paginate
+- Slick Carousel
+- Tailwind CSS
+
+### Features
+
+- Advanced data management with Redux Toolkit
+- Dynamic retrieval of product data from a Fake Store API
+- Pagination for displaying products
+- User-friendly user interface
