@@ -18,4 +18,4 @@ This project encompasses an e-commerce web application developed using React and
 - Advanced data management with Redux Toolkit
 - Dynamic retrieval of product data from a Fake Store API
 - Pagination for displaying products
-- User-friendly user interface
+- User-friendly interface
